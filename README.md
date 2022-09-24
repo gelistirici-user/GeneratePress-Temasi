@@ -14,8 +14,10 @@ GeneratePress’i seçmek için başlıca nedenler:
 ✅Hız performansı rakiplerinden kat kat daha önde olması
 ✅Tamamen özelleştirilebilir olması.
 ✅Adsense için ideal bir seçenek olması.
+
 GeneratePress Ücretsiz vs Premium 🗝️
-GeneratePress teması ücretsiz ve premium sürüm olarak ikiye ayrılmaktadır. Çok fazla ücreti bulunmayan premium sürüm, ücretsiz sürüme nazaran pek çok özelliği beraberinde getirmektedir. İşte bu özellikleri aşağıda listeledik.
+
+<a href="https://karadut.net/generatepress-temasi-guzellestirme/">GeneratePress teması</a> ücretsiz ve premium sürüm olarak ikiye ayrılmaktadır. Çok fazla ücreti bulunmayan premium sürüm, ücretsiz sürüme nazaran pek çok özelliği beraberinde getirmektedir. İşte bu özellikleri aşağıda listeledik.
 
 Özellikler	GeneratePress Teması Ücretsiz	GP Premium
 Özel CSS Ekleme	Dahil ✔️	Dahil ✔️
